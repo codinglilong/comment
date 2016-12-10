@@ -18,3 +18,5 @@ npm run build
 ## comment
 
 评论demo vue+resource+es6 后台在项目是commentsBackstage
+
+![](./1.gif)
